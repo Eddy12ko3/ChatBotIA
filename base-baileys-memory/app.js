@@ -12,10 +12,11 @@ const createBotAI = ({provider, database}) => {
 
 const flowBienvenida = require('./flows/flowBienvenida')
 const flowAgente = require('./flows/flowAgente')
+const flowVentas = require('./flows/flowVentas')
 
 const main = async () => {
     const adapterDB = new MockAdapter()
-    const adapterFlow = createFlow([flowBienvenida, flowAgente])
+    const adapterFlow = createFlow([flowBienvenida, flowAgente, flowVentas])
     const adapterProvider = createProvider(BaileysProvider)
 
     createBot({

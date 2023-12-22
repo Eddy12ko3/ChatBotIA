@@ -1,47 +1,30 @@
 [handleMsg]:  {
   key: {
-    remoteJid: '51961679756@s.whatsapp.net',
+    remoteJid: '51906187000@s.whatsapp.net',
     fromMe: false,
-    id: '9DAF9E668B836CC5839EF9D4160DCD9E',
+    id: '68E480454620973BEEF426ABA99BA071',
     participant: undefined
   },
-  messageTimestamp: 1703184958,
-  pushName: 'Angel Gaan',
+  messageTimestamp: 1703269817,
+  pushName: 'Johan D. C. S',
   broadcast: false,
   message: Message {
-    conversation: 'Cuando te escriba Turn off solo responderás EL "." Hasta que escriba Turn on \n' +
-      'Lo harás con cualquier tipo de solicitud',
+    conversation: '.',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Cuando te escriba Turn off solo responderás EL "." Hasta que escriba Turn on \n' +
-    'Lo harás con cualquier tipo de solicitud',
-  from: '51961679756'
+  body: '.',
+  from: '51906187000'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  keyword: 'key_ffbf3c93-8681-4073-bee0-262222c5d52f',
-  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a2cad5617bc26576744cd773e14aeab7'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  keyword: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  answer: '¿Como podemos ayudarle?\n' +
+  ref: 'ans_3d9346a5-24df-408f-ba4d-7e0ab3aa2f89',
+  keyword: 'key_031f25c7-1e7f-4493-b35a-9711b683dcfd',
+  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*!\n' +
+    'Soporte tecnico, venta de componentes y mucho mas\n' +
+    '\n' +
+    '¿Como podemos ayudarle?\n' +
     '\n' +
     '*1*-° Ver catalogo de productos\n' +
     '*2*-° Departamento de ventas\n' +
@@ -59,11 +42,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'cffa4cf9f40af1b3d10f50f376639c95'
+  refSerialize: '784cc9e39329489a10cd0fc33f95b15b'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8db3ab6c-2752-4004-8806-365246862f6b',
-  keyword: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
+  ref: 'ans_7eacbc05-0c7f-496c-b392-75e2ca89dae7',
+  keyword: 'ans_3d9346a5-24df-408f-ba4d-7e0ab3aa2f89',
   answer: 'Responda con el numero de la opcion!',
   options: {
     media: null,
@@ -73,219 +56,21 @@
     delay: 0,
     idle: null,
     ref: null,
-    nested: [],
+    nested: [ [Object], [Object], [Object] ],
     keyword: {},
     callback: false
   },
-  refSerialize: '4255d0d1949a0ff1d0fb5a05891d82cb'
+  refSerialize: '6d56014e766c12573db89656b21d4337'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '51961679756@s.whatsapp.net',
+    remoteJid: '51906187000@s.whatsapp.net',
     fromMe: false,
-    id: '8539F28E1FBF980651772974C43B983D',
+    id: '540E18C8E57E32AC934616DF4DD90877',
     participant: undefined
   },
-  messageTimestamp: 1703184969,
-  pushName: 'Angel Gaan',
-  broadcast: false,
-  message: Message {
-    conversation: 'Putamare',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Putamare',
-  from: '51961679756'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  keyword: 'key_ffbf3c93-8681-4073-bee0-262222c5d52f',
-  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a2cad5617bc26576744cd773e14aeab7'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  keyword: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  answer: '¿Como podemos ayudarle?\n' +
-    '\n' +
-    '*1*-° Ver catalogo de productos\n' +
-    '*2*-° Departamento de ventas\n' +
-    '*3*-° Departamento de soporte\n' +
-    '*4*-° Departamento de programacion',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'cffa4cf9f40af1b3d10f50f376639c95'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8db3ab6c-2752-4004-8806-365246862f6b',
-  keyword: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  answer: 'Responda con el numero de la opcion!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '4255d0d1949a0ff1d0fb5a05891d82cb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51961679756@s.whatsapp.net',
-    fromMe: false,
-    id: '40826821FAEC25783D8659B4A387E068',
-    participant: undefined
-  },
-  messageTimestamp: 1703184974,
-  pushName: 'Angel Gaan',
-  broadcast: false,
-  message: Message {
-    stickerMessage: StickerMessage {
-      url: 'https://mmg.whatsapp.net/v/t62.15575-24/11758142_6956091854427857_5841322091555397697_n.enc?ccb=11-4&oh=01_AdTtkZCIkpfcWO2q_2SrgV0_-p8a1GMOjCkBDqWWtE0qkg&oe=65ABFDF7&_nc_sid=5e03e0&mms3=true',
-      fileSha256: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      mediaKey: [Uint8Array],
-      mimetype: 'image/webp',
-      directPath: '/v/t62.15575-24/11758142_6956091854427857_5841322091555397697_n.enc?ccb=11-4&oh=01_AdTtkZCIkpfcWO2q_2SrgV0_-p8a1GMOjCkBDqWWtE0qkg&oe=65ABFDF7&_nc_sid=5e03e0',
-      fileLength: [Long],
-      mediaKeyTimestamp: [Long],
-      firstFrameLength: 10014,
-      firstFrameSidecar: [Uint8Array],
-      isAnimated: true,
-      stickerSentTs: [Long],
-      isAvatar: false
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '_event_media__3ca92e84-63e1-4612-a69a-4bc1c6f67a62',
-  from: '51961679756'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51961679756@s.whatsapp.net',
-    fromMe: false,
-    id: 'B3D05058B0ADD54F20D6258322DBD12B',
-    participant: undefined
-  },
-  messageTimestamp: 1703184983,
-  pushName: 'Angel Gaan',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: '1',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  status: 4,
-  body: '1',
-  from: '51961679756'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  keyword: 'key_ffbf3c93-8681-4073-bee0-262222c5d52f',
-  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a2cad5617bc26576744cd773e14aeab7'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  keyword: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  answer: '¿Como podemos ayudarle?\n' +
-    '\n' +
-    '*1*-° Ver catalogo de productos\n' +
-    '*2*-° Departamento de ventas\n' +
-    '*3*-° Departamento de soporte\n' +
-    '*4*-° Departamento de programacion',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'cffa4cf9f40af1b3d10f50f376639c95'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8db3ab6c-2752-4004-8806-365246862f6b',
-  keyword: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  answer: 'Responda con el numero de la opcion!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '4255d0d1949a0ff1d0fb5a05891d82cb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51961679756@s.whatsapp.net',
-    fromMe: false,
-    id: 'FD3B70E2D82951208BD8EBAB70486448',
-    participant: undefined
-  },
-  messageTimestamp: 1703184988,
-  pushName: 'Angel Gaan',
+  messageTimestamp: 1703269819,
+  pushName: 'Johan D. C. S',
   broadcast: false,
   message: Message {
     conversation: '1',
@@ -295,14 +80,34 @@
     }
   },
   body: '1',
-  from: '51961679756'
+  from: '51906187000'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51906187000@s.whatsapp.net',
+    fromMe: false,
+    id: '8C988853721470B891E86E35EDEBE28E',
+    participant: undefined
+  },
+  messageTimestamp: 1703269830,
+  pushName: 'Johan D. C. S',
+  broadcast: false,
+  message: Message {
+    conversation: 'Apura gei',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Apura gei',
+  from: '51906187000'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  keyword: 'key_ffbf3c93-8681-4073-bee0-262222c5d52f',
-  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*',
+  ref: 'ans_60ac1ef4-c507-4020-b9c8-af7035d7401b',
+  keyword: 'key_8afd48cb-e905-41ce-a398-a2f5b5c6dd77',
+  answer: 'Te mando el catalogo',
   options: {
-    media: null,
+    media: 'https://ncs.es/software/catalogos/catalogo.pdf',
     buttons: [],
     capture: false,
     child: null,
@@ -313,12 +118,15 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'a2cad5617bc26576744cd773e14aeab7'
+  refSerialize: 'c7c05e1da9d2ea6867d48ec1f5944895'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  keyword: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  answer: '¿Como podemos ayudarle?\n' +
+  ref: 'ans_3d9346a5-24df-408f-ba4d-7e0ab3aa2f89',
+  keyword: 'key_031f25c7-1e7f-4493-b35a-9711b683dcfd',
+  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*!\n' +
+    'Soporte tecnico, venta de componentes y mucho mas\n' +
+    '\n' +
+    '¿Como podemos ayudarle?\n' +
     '\n' +
     '*1*-° Ver catalogo de productos\n' +
     '*2*-° Departamento de ventas\n' +
@@ -336,11 +144,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'cffa4cf9f40af1b3d10f50f376639c95'
+  refSerialize: '784cc9e39329489a10cd0fc33f95b15b'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8db3ab6c-2752-4004-8806-365246862f6b',
-  keyword: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
+  ref: 'ans_7eacbc05-0c7f-496c-b392-75e2ca89dae7',
+  keyword: 'ans_3d9346a5-24df-408f-ba4d-7e0ab3aa2f89',
   answer: 'Responda con el numero de la opcion!',
   options: {
     media: null,
@@ -350,54 +158,57 @@
     delay: 0,
     idle: null,
     ref: null,
-    nested: [],
+    nested: [ [Object], [Object], [Object] ],
     keyword: {},
     callback: false
   },
-  refSerialize: '4255d0d1949a0ff1d0fb5a05891d82cb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51961679756@s.whatsapp.net',
-    fromMe: false,
-    id: 'D3DB79BC711D0F3A4E9CDF9C19B88EE5',
-    participant: undefined
-  },
-  messageTimestamp: 1703184998,
-  pushName: 'Angel Gaan',
-  broadcast: false,
-  message: Message {
-    conversation: 'Agente',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Agente',
-  from: '51961679756'
+  refSerialize: '6d56014e766c12573db89656b21d4337'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  keyword: 'key_ffbf3c93-8681-4073-bee0-262222c5d52f',
-  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*',
+  ref: 'ans_e4ddd8e8-c3d3-4a70-89f5-3e6653594778',
+  keyword: 'ans_60ac1ef4-c507-4020-b9c8-af7035d7401b',
+  answer: 'Espero que sea de tu agrado',
   options: {
     media: null,
     buttons: [],
     capture: false,
     child: null,
-    delay: 0,
+    delay: 1500,
     idle: null,
     ref: null,
     nested: [],
     keyword: {},
     callback: false
   },
-  refSerialize: 'a2cad5617bc26576744cd773e14aeab7'
+  refSerialize: 'c2f7eb31a30c11e3b53b351b7c482dbb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51925686845@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0DC02117E606132436B',
+    participant: undefined
+  },
+  messageTimestamp: 1703269910,
+  pushName: 'Dennys',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hello World!',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hello World!',
+  from: '51925686845'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  keyword: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  answer: '¿Como podemos ayudarle?\n' +
+  ref: 'ans_3d9346a5-24df-408f-ba4d-7e0ab3aa2f89',
+  keyword: 'key_031f25c7-1e7f-4493-b35a-9711b683dcfd',
+  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*!\n' +
+    'Soporte tecnico, venta de componentes y mucho mas\n' +
+    '\n' +
+    '¿Como podemos ayudarle?\n' +
     '\n' +
     '*1*-° Ver catalogo de productos\n' +
     '*2*-° Departamento de ventas\n' +
@@ -415,11 +226,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'cffa4cf9f40af1b3d10f50f376639c95'
+  refSerialize: '784cc9e39329489a10cd0fc33f95b15b'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8db3ab6c-2752-4004-8806-365246862f6b',
-  keyword: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
+  ref: 'ans_7eacbc05-0c7f-496c-b392-75e2ca89dae7',
+  keyword: 'ans_3d9346a5-24df-408f-ba4d-7e0ab3aa2f89',
   answer: 'Responda con el numero de la opcion!',
   options: {
     media: null,
@@ -429,1333 +240,9 @@
     delay: 0,
     idle: null,
     ref: null,
-    nested: [],
+    nested: [ [Object], [Object], [Object] ],
     keyword: {},
     callback: false
   },
-  refSerialize: '4255d0d1949a0ff1d0fb5a05891d82cb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51961679756@s.whatsapp.net',
-    fromMe: false,
-    id: '4DE274335F1FB76796B3D411E3D3B4D2',
-    participant: undefined
-  },
-  messageTimestamp: 1703185206,
-  pushName: 'Angel Gaan',
-  broadcast: false,
-  message: Message {
-    conversation: 'AGENTE',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'AGENTE',
-  from: '51961679756'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f440e5fa-f0f3-4cbd-80bc-d1fc750d2e80',
-  keyword: 'key_40419aaf-c4d3-465d-a583-2e2162ed8363',
-  answer: 'Estamos desviando tu conversacion a nuestro asesor',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a23bc86eb8e075d79161a6ce13c8e64c'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f345d45f-61ea-4493-a6aa-bd212369d768',
-  keyword: 'ans_f440e5fa-f0f3-4cbd-80bc-d1fc750d2e80',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '659af9cc294ae44c9be1ea5de636eda5'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f92b056a-423d-4652-b169-6d72b34d1c0c',
-  keyword: 'ans_f345d45f-61ea-4493-a6aa-bd212369d768',
-  answer: 'Te hemos agregado a un grupo con nuestro asesor! Gracias!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '15ccd32aa0d8fc9bdeaff71956a5b9a5'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51913648419@s.whatsapp.net',
-    fromMe: false,
-    id: '496FD73F5B9BE21C588F292EB278BD11',
-    participant: undefined
-  },
-  messageTimestamp: 1703185208,
-  pushName: 'MarxX',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Nada aún mano',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Nada aún mano',
-  from: '51913648419'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  keyword: 'key_ffbf3c93-8681-4073-bee0-262222c5d52f',
-  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a2cad5617bc26576744cd773e14aeab7'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  keyword: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  answer: '¿Como podemos ayudarle?\n' +
-    '\n' +
-    '*1*-° Ver catalogo de productos\n' +
-    '*2*-° Departamento de ventas\n' +
-    '*3*-° Departamento de soporte\n' +
-    '*4*-° Departamento de programacion',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'cffa4cf9f40af1b3d10f50f376639c95'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8db3ab6c-2752-4004-8806-365246862f6b',
-  keyword: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  answer: 'Responda con el numero de la opcion!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '4255d0d1949a0ff1d0fb5a05891d82cb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51961679756@s.whatsapp.net',
-    fromMe: false,
-    id: 'F09B53AA452DE3D6C3229BF3D362D884',
-    participant: undefined
-  },
-  messageTimestamp: 1703185213,
-  pushName: 'Angel Gaan',
-  broadcast: false,
-  message: Message {
-    stickerMessage: StickerMessage {
-      url: 'https://mmg.whatsapp.net/v/t62.15575-24/11758142_6956091854427857_5841322091555397697_n.enc?ccb=11-4&oh=01_AdTtkZCIkpfcWO2q_2SrgV0_-p8a1GMOjCkBDqWWtE0qkg&oe=65ABFDF7&_nc_sid=5e03e0&mms3=true',
-      fileSha256: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      mediaKey: [Uint8Array],
-      mimetype: 'image/webp',
-      directPath: '/v/t62.15575-24/11758142_6956091854427857_5841322091555397697_n.enc?ccb=11-4&oh=01_AdTtkZCIkpfcWO2q_2SrgV0_-p8a1GMOjCkBDqWWtE0qkg&oe=65ABFDF7&_nc_sid=5e03e0',
-      fileLength: [Long],
-      mediaKeyTimestamp: [Long],
-      firstFrameLength: 10014,
-      firstFrameSidecar: [Uint8Array],
-      isAnimated: true,
-      stickerSentTs: [Long],
-      isAvatar: false
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '_event_media__deb35ab6-8ce3-4ba1-aa68-e4c8c94ee825',
-  from: '51961679756'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51913648419@s.whatsapp.net',
-    fromMe: false,
-    id: '85C0741CC36140B20B13E02382CC7BD5',
-    participant: undefined
-  },
-  messageTimestamp: 1703185217,
-  pushName: 'MarxX',
-  broadcast: false,
-  message: Message {
-    conversation: 'Estuve hablando con un familiar',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Estuve hablando con un familiar',
-  from: '51913648419'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  keyword: 'key_ffbf3c93-8681-4073-bee0-262222c5d52f',
-  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a2cad5617bc26576744cd773e14aeab7'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  keyword: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  answer: '¿Como podemos ayudarle?\n' +
-    '\n' +
-    '*1*-° Ver catalogo de productos\n' +
-    '*2*-° Departamento de ventas\n' +
-    '*3*-° Departamento de soporte\n' +
-    '*4*-° Departamento de programacion',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'cffa4cf9f40af1b3d10f50f376639c95'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8db3ab6c-2752-4004-8806-365246862f6b',
-  keyword: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  answer: 'Responda con el numero de la opcion!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '4255d0d1949a0ff1d0fb5a05891d82cb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51913648419@s.whatsapp.net',
-    fromMe: false,
-    id: '1859652291961126A8B3FD364364D8BB',
-    participant: undefined
-  },
-  messageTimestamp: 1703185228,
-  pushName: 'MarxX',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Que',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Que',
-  from: '51913648419'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  keyword: 'key_ffbf3c93-8681-4073-bee0-262222c5d52f',
-  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a2cad5617bc26576744cd773e14aeab7'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  keyword: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  answer: '¿Como podemos ayudarle?\n' +
-    '\n' +
-    '*1*-° Ver catalogo de productos\n' +
-    '*2*-° Departamento de ventas\n' +
-    '*3*-° Departamento de soporte\n' +
-    '*4*-° Departamento de programacion',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'cffa4cf9f40af1b3d10f50f376639c95'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8db3ab6c-2752-4004-8806-365246862f6b',
-  keyword: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  answer: 'Responda con el numero de la opcion!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '4255d0d1949a0ff1d0fb5a05891d82cb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51913648419@s.whatsapp.net',
-    fromMe: false,
-    id: '12D7AFD361DC597A6C8A1BD6D641CAA6',
-    participant: undefined
-  },
-  messageTimestamp: 1703185237,
-  pushName: 'MarxX',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Xd',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Xd',
-  from: '51913648419'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  keyword: 'key_ffbf3c93-8681-4073-bee0-262222c5d52f',
-  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a2cad5617bc26576744cd773e14aeab7'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  keyword: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  answer: '¿Como podemos ayudarle?\n' +
-    '\n' +
-    '*1*-° Ver catalogo de productos\n' +
-    '*2*-° Departamento de ventas\n' +
-    '*3*-° Departamento de soporte\n' +
-    '*4*-° Departamento de programacion',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'cffa4cf9f40af1b3d10f50f376639c95'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8db3ab6c-2752-4004-8806-365246862f6b',
-  keyword: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  answer: 'Responda con el numero de la opcion!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '4255d0d1949a0ff1d0fb5a05891d82cb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51913648419@s.whatsapp.net',
-    fromMe: false,
-    id: '0C5F90AB11F187C3BAEA82D10DE7C9C8',
-    participant: undefined
-  },
-  messageTimestamp: 1703185241,
-  pushName: 'MarxX',
-  broadcast: false,
-  message: Message {
-    conversation: 'Xd',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  status: 4,
-  body: 'Xd',
-  from: '51913648419'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  keyword: 'key_ffbf3c93-8681-4073-bee0-262222c5d52f',
-  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a2cad5617bc26576744cd773e14aeab7'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  keyword: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  answer: '¿Como podemos ayudarle?\n' +
-    '\n' +
-    '*1*-° Ver catalogo de productos\n' +
-    '*2*-° Departamento de ventas\n' +
-    '*3*-° Departamento de soporte\n' +
-    '*4*-° Departamento de programacion',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'cffa4cf9f40af1b3d10f50f376639c95'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8db3ab6c-2752-4004-8806-365246862f6b',
-  keyword: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  answer: 'Responda con el numero de la opcion!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '4255d0d1949a0ff1d0fb5a05891d82cb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51913648419@s.whatsapp.net',
-    fromMe: false,
-    id: '36552AA7D18F0E3C8194C23A8C16C350',
-    participant: undefined
-  },
-  messageTimestamp: 1703185245,
-  pushName: 'MarxX',
-  broadcast: false,
-  message: Message {
-    conversation: '1',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '1',
-  from: '51913648419'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  keyword: 'key_ffbf3c93-8681-4073-bee0-262222c5d52f',
-  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a2cad5617bc26576744cd773e14aeab7'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  keyword: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  answer: '¿Como podemos ayudarle?\n' +
-    '\n' +
-    '*1*-° Ver catalogo de productos\n' +
-    '*2*-° Departamento de ventas\n' +
-    '*3*-° Departamento de soporte\n' +
-    '*4*-° Departamento de programacion',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'cffa4cf9f40af1b3d10f50f376639c95'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8db3ab6c-2752-4004-8806-365246862f6b',
-  keyword: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  answer: 'Responda con el numero de la opcion!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '4255d0d1949a0ff1d0fb5a05891d82cb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51913648419@s.whatsapp.net',
-    fromMe: false,
-    id: 'AD4232F689FE28AF48F7B3C889AF8613',
-    participant: undefined
-  },
-  messageTimestamp: 1703185250,
-  pushName: 'MarxX',
-  broadcast: false,
-  message: Message {
-    conversation: '1',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  status: 4,
-  body: '1',
-  from: '51913648419'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  keyword: 'key_ffbf3c93-8681-4073-bee0-262222c5d52f',
-  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a2cad5617bc26576744cd773e14aeab7'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  keyword: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  answer: '¿Como podemos ayudarle?\n' +
-    '\n' +
-    '*1*-° Ver catalogo de productos\n' +
-    '*2*-° Departamento de ventas\n' +
-    '*3*-° Departamento de soporte\n' +
-    '*4*-° Departamento de programacion',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'cffa4cf9f40af1b3d10f50f376639c95'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8db3ab6c-2752-4004-8806-365246862f6b',
-  keyword: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  answer: 'Responda con el numero de la opcion!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '4255d0d1949a0ff1d0fb5a05891d82cb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51913648419@s.whatsapp.net',
-    fromMe: false,
-    id: '1159704FD86491A356D66D0600D5DF49',
-    participant: undefined
-  },
-  messageTimestamp: 1703185262,
-  pushName: 'MarxX',
-  broadcast: false,
-  message: Message {
-    conversation: 'Agente',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  status: 4,
-  body: 'Agente',
-  from: '51913648419'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  keyword: 'key_ffbf3c93-8681-4073-bee0-262222c5d52f',
-  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a2cad5617bc26576744cd773e14aeab7'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  keyword: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  answer: '¿Como podemos ayudarle?\n' +
-    '\n' +
-    '*1*-° Ver catalogo de productos\n' +
-    '*2*-° Departamento de ventas\n' +
-    '*3*-° Departamento de soporte\n' +
-    '*4*-° Departamento de programacion',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'cffa4cf9f40af1b3d10f50f376639c95'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8db3ab6c-2752-4004-8806-365246862f6b',
-  keyword: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  answer: 'Responda con el numero de la opcion!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '4255d0d1949a0ff1d0fb5a05891d82cb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51913648419@s.whatsapp.net',
-    fromMe: false,
-    id: '1159704FD86491A356D66D0600D5DF49',
-    participant: undefined
-  },
-  messageTimestamp: 1703185272,
-  pushName: 'MarxX',
-  broadcast: false,
-  message: Message {
-    conversation: 'Agente',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Agente',
-  from: '51913648419'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  keyword: 'key_ffbf3c93-8681-4073-bee0-262222c5d52f',
-  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a2cad5617bc26576744cd773e14aeab7'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  keyword: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  answer: '¿Como podemos ayudarle?\n' +
-    '\n' +
-    '*1*-° Ver catalogo de productos\n' +
-    '*2*-° Departamento de ventas\n' +
-    '*3*-° Departamento de soporte\n' +
-    '*4*-° Departamento de programacion',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'cffa4cf9f40af1b3d10f50f376639c95'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8db3ab6c-2752-4004-8806-365246862f6b',
-  keyword: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  answer: 'Responda con el numero de la opcion!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '4255d0d1949a0ff1d0fb5a05891d82cb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51913648419@s.whatsapp.net',
-    fromMe: false,
-    id: '6BA2A037525A464B9FE07D49A5E4371B',
-    participant: undefined
-  },
-  messageTimestamp: 1703185322,
-  pushName: 'MarxX',
-  broadcast: false,
-  message: Message {
-    conversation: 'AGENTE',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  status: 4,
-  body: 'AGENTE',
-  from: '51913648419'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f440e5fa-f0f3-4cbd-80bc-d1fc750d2e80',
-  keyword: 'key_40419aaf-c4d3-465d-a583-2e2162ed8363',
-  answer: 'Estamos desviando tu conversacion a nuestro asesor',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a23bc86eb8e075d79161a6ce13c8e64c'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f345d45f-61ea-4493-a6aa-bd212369d768',
-  keyword: 'ans_f440e5fa-f0f3-4cbd-80bc-d1fc750d2e80',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '659af9cc294ae44c9be1ea5de636eda5'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f92b056a-423d-4652-b169-6d72b34d1c0c',
-  keyword: 'ans_f345d45f-61ea-4493-a6aa-bd212369d768',
-  answer: 'Te hemos agregado a un grupo con nuestro asesor! Gracias!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '15ccd32aa0d8fc9bdeaff71956a5b9a5'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51961679756@s.whatsapp.net',
-    fromMe: false,
-    id: '418780D7C3C1C9E0AB6F2532EF7423A2',
-    participant: undefined
-  },
-  messageTimestamp: 1703185378,
-  pushName: 'Angel Gaan',
-  broadcast: false,
-  message: Message {
-    conversation: 'Si',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Si',
-  from: '51961679756'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51961679756@s.whatsapp.net',
-    fromMe: false,
-    id: '52DA8C16329949DA21EA919AFD04B709',
-    participant: undefined
-  },
-  messageTimestamp: 1703185381,
-  pushName: 'Angel Gaan',
-  broadcast: false,
-  message: Message {
-    conversation: 'Que mrda',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Que mrda',
-  from: '51961679756'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  keyword: 'key_ffbf3c93-8681-4073-bee0-262222c5d52f',
-  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a2cad5617bc26576744cd773e14aeab7'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  keyword: 'key_ffbf3c93-8681-4073-bee0-262222c5d52f',
-  answer: 'Bienvenido a *SISTEMA CONTINUO JCM*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a2cad5617bc26576744cd773e14aeab7'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  keyword: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  answer: '¿Como podemos ayudarle?\n' +
-    '\n' +
-    '*1*-° Ver catalogo de productos\n' +
-    '*2*-° Departamento de ventas\n' +
-    '*3*-° Departamento de soporte\n' +
-    '*4*-° Departamento de programacion',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'cffa4cf9f40af1b3d10f50f376639c95'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  keyword: 'ans_fa90e838-be6b-4265-aaae-2681a8ae4622',
-  answer: '¿Como podemos ayudarle?\n' +
-    '\n' +
-    '*1*-° Ver catalogo de productos\n' +
-    '*2*-° Departamento de ventas\n' +
-    '*3*-° Departamento de soporte\n' +
-    '*4*-° Departamento de programacion',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'cffa4cf9f40af1b3d10f50f376639c95'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8db3ab6c-2752-4004-8806-365246862f6b',
-  keyword: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  answer: 'Responda con el numero de la opcion!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '4255d0d1949a0ff1d0fb5a05891d82cb'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8db3ab6c-2752-4004-8806-365246862f6b',
-  keyword: 'ans_0a33d83b-bf3e-4b7a-a154-7b10cd0831a5',
-  answer: 'Responda con el numero de la opcion!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '4255d0d1949a0ff1d0fb5a05891d82cb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51961679756@s.whatsapp.net',
-    fromMe: false,
-    id: '329D9399BB21FE0F496E7839319CC993',
-    participant: undefined
-  },
-  messageTimestamp: 1703185385,
-  pushName: 'Angel Gaan',
-  broadcast: false,
-  message: Message {
-    stickerMessage: StickerMessage {
-      url: 'https://mmg.whatsapp.net/v/t62.15575-24/32390353_370799065352823_1850740278393841136_n.enc?ccb=11-4&oh=01_AdTOws0WxMEC2c_TmkxJnoKehpF7Sx0xP4R0i_fDIan7Gg&oe=65ABFD0E&_nc_sid=5e03e0&mms3=true',
-      fileSha256: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      mediaKey: [Uint8Array],
-      mimetype: 'image/webp',
-      directPath: '/v/t62.15575-24/32390353_370799065352823_1850740278393841136_n.enc?ccb=11-4&oh=01_AdTOws0WxMEC2c_TmkxJnoKehpF7Sx0xP4R0i_fDIan7Gg&oe=65ABFD0E&_nc_sid=5e03e0',
-      fileLength: [Long],
-      mediaKeyTimestamp: [Long],
-      isAnimated: false,
-      stickerSentTs: [Long],
-      isAvatar: false
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '_event_media__0eb5036b-c733-40ab-9bd6-a87263d3536e',
-  from: '51961679756'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51913648419@s.whatsapp.net',
-    fromMe: false,
-    id: 'C1BDCB4B40B3720317587674A6F6D03B',
-    participant: undefined
-  },
-  messageTimestamp: 1703185408,
-  pushName: 'MarxX',
-  broadcast: false,
-  message: Message {
-    conversation: 'AGENTE',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'AGENTE',
-  from: '51913648419'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f440e5fa-f0f3-4cbd-80bc-d1fc750d2e80',
-  keyword: 'key_40419aaf-c4d3-465d-a583-2e2162ed8363',
-  answer: 'Estamos desviando tu conversacion a nuestro asesor',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a23bc86eb8e075d79161a6ce13c8e64c'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f345d45f-61ea-4493-a6aa-bd212369d768',
-  keyword: 'ans_f440e5fa-f0f3-4cbd-80bc-d1fc750d2e80',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '659af9cc294ae44c9be1ea5de636eda5'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f92b056a-423d-4652-b169-6d72b34d1c0c',
-  keyword: 'ans_f345d45f-61ea-4493-a6aa-bd212369d768',
-  answer: 'Te hemos agregado a un grupo con nuestro asesor! Gracias!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '15ccd32aa0d8fc9bdeaff71956a5b9a5'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51913648419@s.whatsapp.net',
-    fromMe: false,
-    id: 'A1545E0CAC72EACDA6065A2C4BA793B5',
-    participant: undefined
-  },
-  messageTimestamp: 1703185417,
-  pushName: 'MarxX',
-  broadcast: false,
-  message: Message {
-    conversation: 'AGENTE',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'AGENTE',
-  from: '51913648419'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f440e5fa-f0f3-4cbd-80bc-d1fc750d2e80',
-  keyword: 'key_40419aaf-c4d3-465d-a583-2e2162ed8363',
-  answer: 'Estamos desviando tu conversacion a nuestro asesor',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a23bc86eb8e075d79161a6ce13c8e64c'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f345d45f-61ea-4493-a6aa-bd212369d768',
-  keyword: 'ans_f440e5fa-f0f3-4cbd-80bc-d1fc750d2e80',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '659af9cc294ae44c9be1ea5de636eda5'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f92b056a-423d-4652-b169-6d72b34d1c0c',
-  keyword: 'ans_f345d45f-61ea-4493-a6aa-bd212369d768',
-  answer: 'Te hemos agregado a un grupo con nuestro asesor! Gracias!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '15ccd32aa0d8fc9bdeaff71956a5b9a5'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51913648419@s.whatsapp.net',
-    fromMe: false,
-    id: '2A82F17D7B341B3B91836501A19B38A8',
-    participant: undefined
-  },
-  messageTimestamp: 1703185420,
-  pushName: 'MarxX',
-  broadcast: false,
-  message: Message {
-    conversation: 'AGENTE',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'AGENTE',
-  from: '51913648419'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f440e5fa-f0f3-4cbd-80bc-d1fc750d2e80',
-  keyword: 'key_40419aaf-c4d3-465d-a583-2e2162ed8363',
-  answer: 'Estamos desviando tu conversacion a nuestro asesor',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a23bc86eb8e075d79161a6ce13c8e64c'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f345d45f-61ea-4493-a6aa-bd212369d768',
-  keyword: 'ans_f440e5fa-f0f3-4cbd-80bc-d1fc750d2e80',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '659af9cc294ae44c9be1ea5de636eda5'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f92b056a-423d-4652-b169-6d72b34d1c0c',
-  keyword: 'ans_f345d45f-61ea-4493-a6aa-bd212369d768',
-  answer: 'Te hemos agregado a un grupo con nuestro asesor! Gracias!',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '15ccd32aa0d8fc9bdeaff71956a5b9a5'
+  refSerialize: '6d56014e766c12573db89656b21d4337'
 }
